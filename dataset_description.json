@@ -1,0 +1,37 @@
+{
+  "Name": "iEEG_comprehensive_HFA_model_part3",
+  "BIDSVersion": "1.7.0",
+  "DatasetType": "raw",
+  "License": "CC0",
+  "Authors": [
+    "Keisuke Hatano",
+    "Naoto Kuroda",
+    "Hiroshi Uda",
+    "Kazuki Sakakura",
+    "Michael J. Cools",
+    "Aimee F. Luat",
+    "Shin-Ichiro Osawa",
+    "Hitoshi Nemoto",
+    "Kazushi Ukishiro",
+    "Hidenori Endo",
+    "Nobukazu Nakasato",
+    "Yutaro Takayama",
+    "Keiya Iijima",
+    "Masaki Iwasaki",
+    "Eishi Asano"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "N/A",
+  "Funding": [
+    "the National Institutes of Health (NIH; NS064033 to E.A.)",
+    "the Uehara Memorial Foundation Postdoctoral Fellowship (202441017 to K.H.; 20210301 to H.U.)",
+    "the Japan Society for the Promotion of Science (JP22J23281 and JP22KJ0323 to N.K.; 202560628 to H.U.; JP19K09494 and 22K09296 to M.I.)"
+  ],
+  "EthicsApprovals": ["IRBs of Wayne State University, Tohoku University, and National Center of Neurology and Psychiatry"],
+  "ReferencesAndLinks": [
+    "",
+    "",
+    ""
+  ],
+  "DatasetDOI": "doi:"
+}
