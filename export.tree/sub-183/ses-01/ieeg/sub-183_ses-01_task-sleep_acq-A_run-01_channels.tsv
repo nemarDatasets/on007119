@@ -1,0 +1,39 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	notch	resection	status_description	hemisphere	lobe	dataset
+A1	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+A2	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+A3	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+A4	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+A5	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+A6	SEEG	µV	0.08	300	1000	not applied	preserved	spiking	n/a	n/a	unused
+A7	SEEG	µV	0.08	300	1000	not applied	preserved	spiking	n/a	n/a	unused
+A8	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+A9	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+A10	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+A11	SEEG	µV	0.08	300	1000	not applied	preserved	spiking	n/a	n/a	unused
+A12	SEEG	µV	0.08	300	1000	not applied	preserved	spiking	n/a	n/a	unused
+A13	SEEG	µV	0.08	300	1000	not applied	preserved	spiking	n/a	n/a	unused
+A14	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+A15	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+A16	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+A17	SEEG	µV	0.08	300	1000	not applied	preserved	spiking	n/a	n/a	unused
+A18	SEEG	µV	0.08	300	1000	not applied	preserved	spiking	n/a	n/a	unused
+A19	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+A20	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
+A21	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
+A22	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
+A23	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
+A24	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+A25	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+A26	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
+A27	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
+A28	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
+A29	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+A30	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+A31	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	frontal	trained
+A32	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	frontal	trained
+A33	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	frontal	trained
+A34	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	frontal	trained
+A35	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+A36	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	temporal	other
+A37	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	temporal	other
+A38	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained

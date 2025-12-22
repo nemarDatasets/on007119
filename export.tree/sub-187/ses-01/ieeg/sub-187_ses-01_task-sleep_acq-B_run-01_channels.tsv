@@ -1,0 +1,7 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	notch	resection	status_description	hemisphere	lobe	dataset
+C1	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	temporal	trained
+C2	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	temporal	trained
+C3	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	temporal	trained
+C4	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	temporal	trained
+C5	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	temporal	trained
+C6	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	temporal	trained
