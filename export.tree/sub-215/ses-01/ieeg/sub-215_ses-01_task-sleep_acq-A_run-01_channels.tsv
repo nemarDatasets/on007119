@@ -1,0 +1,75 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	notch	resection	status_description	hemisphere	lobe	dataset
+A1	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	frontal	trained
+A2	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	frontal	trained
+A3	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	frontal	trained
+A4	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	frontal	trained
+A5	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	frontal	trained
+A6	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	frontal	trained
+A7	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	frontal	trained
+A8	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+B1	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+B2	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+B3	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+B4	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+C01	ECOG	µV	0.08	300	1000	not applied	preserved	seizure onset zone	L	temporal	trained
+C02	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+C03	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+C04	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+C05	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	parietal	trained
+C06	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	L	temporal	trained
+C07	ECOG	µV	0.08	300	1000	not applied	preserved	seizure onset zone	L	temporal	trained
+C08	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+C09	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+C10	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	parietal	trained
+D01	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	L	temporal	trained
+D02	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	L	temporal	trained
+D03	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+D04	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+D05	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	parietal	trained
+D06	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	L	temporal	trained
+D07	ECOG	µV	0.08	300	1000	not applied	resected	spiking	L	temporal	other
+D08	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	parietal	trained
+D09	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	parietal	trained
+D10	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	parietal	trained
+E1	SEEG	µV	0.08	300	1000	not applied	n/a	normal	n/a	n/a	trained
+E2	SEEG	µV	0.08	300	1000	not applied	n/a	normal	n/a	n/a	trained
+E3	SEEG	µV	0.08	300	1000	not applied	n/a	normal	n/a	n/a	trained
+E4	SEEG	µV	0.08	300	1000	not applied	n/a	normal	n/a	n/a	trained
+E5	SEEG	µV	0.08	300	1000	not applied	n/a	normal	n/a	n/a	trained
+E6	SEEG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+F1	SEEG	µV	0.08	300	1000	not applied	n/a	normal	n/a	n/a	trained
+F2	SEEG	µV	0.08	300	1000	not applied	n/a	seizure onset zone	n/a	n/a	trained
+F3	SEEG	µV	0.08	300	1000	not applied	n/a	seizure onset zone	n/a	n/a	trained
+F4	SEEG	µV	0.08	300	1000	not applied	n/a	seizure onset zone	n/a	n/a	trained
+F5	SEEG	µV	0.08	300	1000	not applied	n/a	seizure onset zone	n/a	n/a	trained
+F6	SEEG	µV	0.08	300	1000	not applied	resected	normal	L	temporal	trained
+G1	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+G2	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+G3	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+G4	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+G5	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+G6	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+H1	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+H2	ECOG	µV	0.08	300	1000	not applied	preserved	seizure onset zone	L	temporal	trained
+H3	ECOG	µV	0.08	300	1000	not applied	preserved	seizure onset zone	L	temporal	trained
+H4	ECOG	µV	0.08	300	1000	not applied	preserved	seizure onset zone	L	temporal	trained
+H5	ECOG	µV	0.08	300	1000	not applied	preserved	seizure onset zone	L	temporal	trained
+H6	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+I1	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+I2	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+I3	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	L	temporal	trained
+I4	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	L	temporal	trained
+I5	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	L	temporal	trained
+I6	ECOG	µV	0.08	300	1000	not applied	resected	normal	L	temporal	trained
+J1	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	parietal	trained
+J2	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	occipital	trained
+J3	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+J4	ECOG	µV	0.08	300	1000	not applied	resected	normal	L	temporal	trained
+J5	ECOG	µV	0.08	300	1000	not applied	resected	normal	L	temporal	trained
+J6	ECOG	µV	0.08	300	1000	not applied	resected	normal	L	temporal	trained
+K1	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	occipital	trained
+K2	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	occipital	trained
+K3	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	occipital	trained
+K4	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	occipital	trained
+K5	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	occipital	trained
+K6	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	occipital	trained

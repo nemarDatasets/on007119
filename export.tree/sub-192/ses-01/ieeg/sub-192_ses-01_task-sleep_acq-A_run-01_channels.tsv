@@ -1,0 +1,89 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	notch	resection	status_description	hemisphere	lobe	dataset
+A1	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	temporal	trained
+A2	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	temporal	trained
+A3	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	temporal	trained
+A4	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	temporal	trained
+A5	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	temporal	trained
+A6	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	temporal	trained
+A7	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	temporal	trained
+A8	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	temporal	trained
+A9	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	temporal	trained
+A10	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	temporal	trained
+A11	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	frontal	trained
+A12	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+A13	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+A14	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+A15	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+A16	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	frontal	trained
+A17	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+A18	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+A19	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+A20	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+A21	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	temporal	trained
+A22	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	temporal	trained
+A23	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	temporal	trained
+A24	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+A25	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+A26	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	temporal	trained
+A27	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	temporal	trained
+A28	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	temporal	trained
+A29	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+A30	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+A31	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	temporal	other
+A32	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	temporal	other
+A33	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	temporal	other
+A34	ECOG	µV	0.08	300	1000	not applied	preserved	spiking	R	temporal	other
+A35	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	temporal	trained
+A36	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	temporal	trained
+A37	SEEG	µV	0.08	300	1000	not applied	resected	artifact	n/a	n/a	unused
+A38	SEEG	µV	0.08	300	1000	not applied	resected	spiking	n/a	n/a	unused
+A39	SEEG	µV	0.08	300	1000	not applied	resected	spiking	n/a	n/a	unused
+A40	SEEG	µV	0.08	300	1000	not applied	resected	spiking	n/a	n/a	unused
+A41	SEEG	µV	0.08	300	1000	not applied	resected	spiking	n/a	n/a	unused
+A42	SEEG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+A43	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+A44	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+A45	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+A46	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+A47	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+A48	SEEG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+A49	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+A50	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+A51	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+A52	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+A53	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+A54	SEEG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+B1	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+B2	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+B3	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+B4	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+B5	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+B6	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+B7	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+B8	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+B9	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+B10	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+B11	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+B12	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+B13	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+B14	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+B15	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+B16	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+B17	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+B18	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+B19	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+B20	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+B21	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+B22	SEEG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+B23	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+B24	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+B25	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+B26	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+B27	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+B28	SEEG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+B29	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+B30	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+B31	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+B32	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+B33	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+B34	SEEG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
