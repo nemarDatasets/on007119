@@ -1,0 +1,52 @@
+{
+  "version": "2.0",
+  "dataset_id": "on007119",
+  "source": "openneuro",
+  "source_id": "ds007119",
+  "title": "iEEG_comprehensive_HFA_model_part3",
+  "authors": {
+    "Keisuke Hatano": {},
+    "Naoto Kuroda": {},
+    "Hiroshi Uda": {},
+    "Kazuki Sakakura": {},
+    "Michael J. Cools": {},
+    "Aimee F. Luat": {},
+    "Shin-Ichiro Osawa": {},
+    "Hitoshi Nemoto": {},
+    "Kazushi Ukishiro": {},
+    "Hidenori Endo": {},
+    "Nobukazu Nakasato": {},
+    "Yutaro Takayama": {},
+    "Keiya Iijima": {},
+    "Masaki Iwasaki": {},
+    "Eishi Asano": {}
+  },
+  "license": "CC0",
+  "dataset_type": "raw",
+  "related_identifiers": [
+    {
+      "identifier": "10.18112/openneuro.ds007119.v1.0.0",
+      "identifier_type": "DOI",
+      "relation_type": "IsIdenticalTo"
+    }
+  ],
+  "pipeline_stage": "seeded",
+  "bids_version": "1.7.0",
+  "recording_modality": [
+    "ieeg"
+  ],
+  "datatypes": [
+    "ieeg"
+  ],
+  "funding_references": [
+    {
+      "funder_name": "the National Institutes of Health (NIH; NS064033 to E.A.)"
+    },
+    {
+      "funder_name": "the Uehara Memorial Foundation Postdoctoral Fellowship (202441017 to K.H.; 20210301 to H.U.)"
+    },
+    {
+      "funder_name": "the Japan Society for the Promotion of Science (JP22J23281 and JP22KJ0323 to N.K.; 202560628 to H.U.; JP19K09494 and 22K09296 to M.I.)"
+    }
+  ]
+}
