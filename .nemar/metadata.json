@@ -2,6 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "enriched",
   "title": "iEEG_comprehensive_HFA_model_part3",
+  "description": "This dataset comprises intracranial EEG recordings acquired during non-REM sleep from patients undergoing clinical monitoring. The data were collected to investigate high-frequency activity patterns and develop comprehensive models of neural oscillations during sleep, as described in Hatano et al. (in press). This represents part 3 of a multi-part iEEG high-frequency activity modeling study.",
+  "methods_description": "Intracranial EEG data were recorded during non-REM sleep using implanted electrodes from patients undergoing clinical monitoring for epilepsy. Recordings were obtained from multiple clinical centers: Wayne State University (Detroit, USA), Tohoku University (Sendai, Japan), and the National Center of Neurology and Psychiatry (Tokyo, Japan). Data were processed and analyzed to extract high-frequency activity features for comprehensive neural oscillation modeling.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -21,12 +23,33 @@
     "Masaki Iwasaki": {},
     "Eishi Asano": {}
   },
-  "related_identifiers": [
+  "keywords": [
     {
-      "identifier": "10.18112/openneuro.ds007119.v1.0.0",
-      "identifier_type": "DOI",
-      "relation_type": "IsIdenticalTo"
+      "term": "intracranial EEG"
     },
+    {
+      "term": "iEEG"
+    },
+    {
+      "term": "high-frequency activity"
+    },
+    {
+      "term": "HFA"
+    },
+    {
+      "term": "non-REM sleep"
+    },
+    {
+      "term": "neural oscillations"
+    },
+    {
+      "term": "sleep"
+    },
+    {
+      "term": "epilepsy"
+    }
+  ],
+  "related_identifiers": [
     {
       "identifier": "https://github.com/nemarDatasets/on007119",
       "identifier_type": "URL",
@@ -41,11 +64,16 @@
       "identifier": "10.18112/openneuro.ds007119",
       "identifier_type": "DOI",
       "relation_type": "IsVersionOf"
+    },
+    {
+      "identifier": "10.18112/openneuro.ds007119.v1.0.0",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
     }
   ],
   "funding_references": [
     {
-      "funder_name": "NIH",
+      "funder_name": "National Institutes of Health",
       "award_number": "NS064033"
     },
     {
@@ -82,46 +110,19 @@
     }
   ],
   "resource_type_general": "Dataset",
+  "resource_type_specific": "iEEG Dataset",
   "modalities": [
     "ieeg"
   ],
-  "resource_type_specific": "iEEG Dataset",
   "sizes": [
-    "0.0 KB (1 files)"
+    "35.0 GB (107 files)"
   ],
   "formats": [
     ".edf",
     ".json",
     ".md",
-    ".tsv"
+    ".tsv",
+    ".yml"
   ],
-  "description": "This dataset comprises intracranial EEG recordings acquired during non-REM sleep from patients undergoing clinical monitoring for epilepsy at Wayne State University, Tohoku University, and the National Center of Neurology and Psychiatry. The data were collected to develop and validate comprehensive high-frequency activity models for neurophysiological analysis during sleep states, with potential applications for seizure prediction and epilepsy characterization. This represents part 3 of a multi-part iEEG dataset study examining neural oscillations and their clinical significance.",
-  "methods_description": "Intracranial EEG data were recorded during non-REM sleep using implanted electrodes from patients undergoing clinical monitoring for epilepsy. Recordings were obtained from multiple clinical centers: Wayne State University (Detroit, USA), Tohoku University (Sendai, Japan), and the National Center of Neurology and Psychiatry (Tokyo, Japan). Data were processed and analyzed to extract high-frequency activity features for comprehensive neural oscillation modeling.",
-  "keywords": [
-    {
-      "term": "intracranial EEG"
-    },
-    {
-      "term": "iEEG"
-    },
-    {
-      "term": "high-frequency activity"
-    },
-    {
-      "term": "non-REM sleep"
-    },
-    {
-      "term": "sleep neurophysiology"
-    },
-    {
-      "term": "electrocorticography"
-    },
-    {
-      "term": "epilepsy"
-    },
-    {
-      "term": "seizure"
-    }
-  ],
-  "source_hash": "245a38bd9fb371869120308469dd19d686b6275409111372a50e16632a419897"
+  "source_hash": "b6c6d3ab5d66d03a6940a4d70bf8012569dff1addbd5d788cb9b341b22fa2bc0"
 }
