@@ -1,9 +1,9 @@
 {
   "version": "2.0",
-  "dataset_id": "on007119",
-  "source": "openneuro",
-  "source_id": "ds007119",
+  "pipeline_stage": "enriched",
   "title": "iEEG_comprehensive_HFA_model_part3",
+  "license": "CC0",
+  "dataset_type": "raw",
   "authors": {
     "Keisuke Hatano": {},
     "Naoto Kuroda": {},
@@ -21,32 +21,107 @@
     "Masaki Iwasaki": {},
     "Eishi Asano": {}
   },
-  "license": "CC0",
-  "dataset_type": "raw",
   "related_identifiers": [
     {
       "identifier": "10.18112/openneuro.ds007119.v1.0.0",
       "identifier_type": "DOI",
       "relation_type": "IsIdenticalTo"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/on007119",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/on007119",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.18112/openneuro.ds007119",
+      "identifier_type": "DOI",
+      "relation_type": "IsVersionOf"
     }
-  ],
-  "pipeline_stage": "seeded",
-  "bids_version": "1.7.0",
-  "recording_modality": [
-    "ieeg"
-  ],
-  "datatypes": [
-    "ieeg"
   ],
   "funding_references": [
     {
-      "funder_name": "the National Institutes of Health (NIH; NS064033 to E.A.)"
+      "funder_name": "NIH",
+      "award_number": "NS064033"
     },
     {
-      "funder_name": "the Uehara Memorial Foundation Postdoctoral Fellowship (202441017 to K.H.; 20210301 to H.U.)"
+      "funder_name": "Uehara Memorial Foundation",
+      "award_number": "202441017"
     },
     {
-      "funder_name": "the Japan Society for the Promotion of Science (JP22J23281 and JP22KJ0323 to N.K.; 202560628 to H.U.; JP19K09494 and 22K09296 to M.I.)"
+      "funder_name": "Uehara Memorial Foundation",
+      "award_number": "20210301"
+    },
+    {
+      "funder_name": "Japan Society for the Promotion of Science",
+      "award_number": "JP22J23281"
+    },
+    {
+      "funder_name": "Japan Society for the Promotion of Science",
+      "award_number": "JP22KJ0323"
+    },
+    {
+      "funder_name": "Japan Society for the Promotion of Science",
+      "award_number": "202560628"
+    },
+    {
+      "funder_name": "Japan Society for the Promotion of Science",
+      "award_number": "JP19K09494"
+    },
+    {
+      "funder_name": "Japan Society for the Promotion of Science",
+      "award_number": "22K09296"
+    },
+    {
+      "funder_name": "Japan Society for the Promotion of Science",
+      "award_number": "202560576"
     }
-  ]
+  ],
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "ieeg"
+  ],
+  "resource_type_specific": "iEEG Dataset",
+  "sizes": [
+    "0.0 KB (1 files)"
+  ],
+  "formats": [
+    ".edf",
+    ".json",
+    ".md",
+    ".tsv"
+  ],
+  "description": "This dataset comprises intracranial EEG recordings acquired during non-REM sleep from patients undergoing clinical monitoring for epilepsy at Wayne State University, Tohoku University, and the National Center of Neurology and Psychiatry. The data were collected to develop and validate comprehensive high-frequency activity models for neurophysiological analysis during sleep states, with potential applications for seizure prediction and epilepsy characterization. This represents part 3 of a multi-part iEEG dataset study examining neural oscillations and their clinical significance.",
+  "methods_description": "Intracranial EEG data were recorded during non-REM sleep using implanted electrodes from patients undergoing clinical monitoring for epilepsy. Recordings were obtained from multiple clinical centers: Wayne State University (Detroit, USA), Tohoku University (Sendai, Japan), and the National Center of Neurology and Psychiatry (Tokyo, Japan). Data were processed and analyzed to extract high-frequency activity features for comprehensive neural oscillation modeling.",
+  "keywords": [
+    {
+      "term": "intracranial EEG"
+    },
+    {
+      "term": "iEEG"
+    },
+    {
+      "term": "high-frequency activity"
+    },
+    {
+      "term": "non-REM sleep"
+    },
+    {
+      "term": "sleep neurophysiology"
+    },
+    {
+      "term": "electrocorticography"
+    },
+    {
+      "term": "epilepsy"
+    },
+    {
+      "term": "seizure"
+    }
+  ],
+  "source_hash": "245a38bd9fb371869120308469dd19d686b6275409111372a50e16632a419897"
 }
