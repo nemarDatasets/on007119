@@ -1,8 +1,8 @@
 {
   "version": "2.0",
-  "pipeline_stage": "enriched",
+  "pipeline_stage": "validated",
   "title": "iEEG_comprehensive_HFA_model_part3",
-  "description": "This dataset comprises intracranial EEG recordings acquired during non-REM sleep from patients undergoing clinical monitoring. The data were collected to investigate high-frequency activity patterns and develop comprehensive models of neural oscillations during sleep, as described in Hatano et al. (in press). This represents part 3 of a multi-part iEEG high-frequency activity modeling study.",
+  "description": "This dataset comprises intracranial EEG (iEEG) recordings collected during non-REM sleep from patients undergoing clinical evaluation for epilepsy surgery. The data were acquired across multiple institutions and are part of a broader study modeling high-frequency activity (HFA) in the human brain. This dataset represents part 3 of a comprehensive iEEG HFA modeling project.",
   "methods_description": "Intracranial EEG data were recorded during non-REM sleep using implanted electrodes from patients undergoing clinical monitoring for epilepsy. Recordings were obtained from multiple clinical centers: Wayne State University (Detroit, USA), Tohoku University (Sendai, Japan), and the National Center of Neurology and Psychiatry (Tokyo, Japan). Data were processed and analyzed to extract high-frequency activity features for comprehensive neural oscillation modeling.",
   "license": "CC0",
   "dataset_type": "raw",
@@ -25,28 +25,26 @@
   },
   "keywords": [
     {
-      "term": "intracranial EEG"
-    },
-    {
       "term": "iEEG"
     },
     {
-      "term": "high-frequency activity"
-    },
-    {
-      "term": "HFA"
+      "term": "intracranial EEG"
     },
     {
       "term": "non-REM sleep"
     },
     {
-      "term": "neural oscillations"
+      "term": "high-frequency activity"
     },
     {
-      "term": "sleep"
+      "term": "Epilepsy",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
     },
     {
-      "term": "epilepsy"
+      "term": "Electrocorticography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
     }
   ],
   "related_identifiers": [
@@ -77,11 +75,11 @@
       "award_number": "NS064033"
     },
     {
-      "funder_name": "Uehara Memorial Foundation",
+      "funder_name": "Uehara Memorial Foundation Postdoctoral Fellowship",
       "award_number": "202441017"
     },
     {
-      "funder_name": "Uehara Memorial Foundation",
+      "funder_name": "Uehara Memorial Foundation Postdoctoral Fellowship",
       "award_number": "20210301"
     },
     {
@@ -103,10 +101,6 @@
     {
       "funder_name": "Japan Society for the Promotion of Science",
       "award_number": "22K09296"
-    },
-    {
-      "funder_name": "Japan Society for the Promotion of Science",
-      "award_number": "202560576"
     }
   ],
   "resource_type_general": "Dataset",
