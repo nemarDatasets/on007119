@@ -1,0 +1,3 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	notch	resection	status_description	hemisphere	lobe	dataset
+K01	ECOG	µV	0.08	300	1000	not applied	preserved	spiking	R	temporal	other
+K09	ECOG	µV	0.08	300	1000	not applied	preserved	artifact	R	temporal	unused

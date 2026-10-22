@@ -3,7 +3,8 @@
     "Description": "Indicates the electrode type",
     "Levels": {
       "ECOG": "Electrode was a subdural grid or strip",
-      "SEEG": "Electrode was a depth electrode"
+      "SEEG": "Electrode was a depth electrode",
+      "MISC": "Channel present in the data header without a channels.tsv row before 18 Oct 2026 (C63-AV); type not known"
     },
     "MissingValues": [
       "n/a"

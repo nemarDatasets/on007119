@@ -1,2 +1,8 @@
+1.0.1 2026-10-22
+  - 2026-10-20: redacted a free-text annotation in four channel names of the sub-222 rows kept under sourcedata/channels-removed-2026-10-18/ (N1-N4); README updated.
+  - channels.tsv of 105 recordings = the data-file header channel list (name, order, count; matched by name): 10668 rows renamed to the header name, 8 rows added, 144 rows removed (kept in sourcedata/channels-removed-2026-10-18/), 1 files reordered. mne_bids read_raw_bids raised 'Channel mismatch'.
+  - README: section 'Channel names follow the data headers'.
+  - sub-186 channels.json: type Level MISC added for the header channel C63-AV that had no channels.tsv row (validator TSV_VALUE_INCORRECT_TYPE).
+
 1.0.0 2025-12-22
   - Initial version

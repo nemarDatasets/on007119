@@ -1,0 +1,7 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	notch	resection	status_description	hemisphere	lobe	dataset
+A57	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+A58	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+A59	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+A60	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+A61	SEEG	µV	0.08	300	1000	not applied	preserved	normal	R	frontal	trained
+A62	SEEG	µV	0.08	300	1000	not applied	preserved	normal	R	frontal	trained

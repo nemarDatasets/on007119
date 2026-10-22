@@ -1,0 +1,4 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	notch	resection	status_description	hemisphere	lobe	dataset
+A29	ECOG	µV	0.08	300	1000	not applied	preserved	artifact	R	parietal	unused
+A33	ECOG	µV	0.08	300	1000	not applied	preserved	artifact	R	parietal	unused
+B22	ECOG	µV	0.08	300	1000	not applied	preserved	artifact	R	parietal	unused

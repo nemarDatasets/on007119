@@ -1,0 +1,17 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	notch	resection	status_description	hemisphere	lobe	dataset
+C1	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+C2	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+C3	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+C4	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+C5	SEEG	µV	0.08	300	1000	not applied	resected	normal	L	frontal	trained
+C6	SEEG	µV	0.08	300	1000	not applied	resected	normal	L	frontal	trained
+C7	SEEG	µV	0.08	300	1000	not applied	resected	normal	L	frontal	trained
+C8	SEEG	µV	0.08	300	1000	not applied	resected	artifact	L	frontal	unused
+C9	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	L	insula	trained
+C10	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	L	insula	trained
+C11	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	L	insula	trained
+C12	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	L	parietal	trained
+C13	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	L	parietal	trained
+C14	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	L	parietal	trained
+C15	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	L	parietal	trained
+C16	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	L	parietal	trained

@@ -1,0 +1,19 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	notch	resection	status_description	hemisphere	lobe	dataset
+C1	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	unused
+C2	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	unused
+C3	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	unused
+C4	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	unused
+C5	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	unused
+C6	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	unused
+C7	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	unused
+C8	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	unused
+C9	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	unused
+C10	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	unused
+C11	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	unused
+C12	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	unused
+C13	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	unused
+C14	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	unused
+C15	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	unused
+C16	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	unused
+C17	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	unused
+C18	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	unused

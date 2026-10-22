@@ -1,87 +1,87 @@
 name	type	units	low_cutoff	high_cutoff	sampling_frequency	notch	resection	status_description	hemisphere	lobe	dataset
-A01	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
-A02	SEEG	µV	0.08	300	1000	not applied	resected	spiking	n/a	n/a	unused
-A03	SEEG	µV	0.08	300	1000	not applied	resected	spiking	n/a	n/a	unused
-A04	SEEG	µV	0.08	300	1000	not applied	resected	spiking	n/a	n/a	unused
-A05	SEEG	µV	0.08	300	1000	not applied	resected	spiking	n/a	n/a	unused
-A06	SEEG	µV	0.08	300	1000	not applied	resected	spiking	n/a	n/a	unused
-A07	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
-A08	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
-A09	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
-A10	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
-B01	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
-B02	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
-B03	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
-B04	SEEG	µV	0.08	300	1000	not applied	resected	spiking	n/a	n/a	unused
-B05	SEEG	µV	0.08	300	1000	not applied	resected	spiking	n/a	n/a	unused
-B06	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
-B07	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
-B08	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
-B09	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
-B10	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
-C01	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
-C02	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
-C03	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
-C04	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
-C05	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
-C06	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
-C07	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
-C08	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
-C09	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
-C10	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
-D01	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
-D02	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
-D03	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
-D04	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
-D05	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
-D06	SEEG	µV	0.08	300	1000	not applied	preserved	artifact	n/a	n/a	unused
-D07	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
-D08	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
-D09	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
-D10	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
-E01	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
-E02	SEEG	µV	0.08	300	1000	not applied	preserved	spiking	n/a	n/a	unused
-E03	SEEG	µV	0.08	300	1000	not applied	preserved	spiking	n/a	n/a	unused
-E04	SEEG	µV	0.08	300	1000	not applied	preserved	spiking	n/a	n/a	unused
-E05	SEEG	µV	0.08	300	1000	not applied	preserved	spiking	n/a	n/a	unused
-E06	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
-E07	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
-E08	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
-E09	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
-E10	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
-F01	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
-F02	SEEG	µV	0.08	300	1000	not applied	preserved	seizure onset zone	n/a	n/a	trained
-F03	SEEG	µV	0.08	300	1000	not applied	preserved	seizure onset zone	n/a	n/a	trained
-F04	SEEG	µV	0.08	300	1000	not applied	preserved	seizure onset zone	n/a	n/a	trained
-F05	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
-F06	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
-F07	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
-F08	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
-F09	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
-F10	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
-G01	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	frontal	trained
-G02	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	frontal	trained
-G03	ECOG	µV	0.08	300	1000	not applied	resected	normal	L	frontal	trained
-G04	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	frontal	trained
-G05	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	frontal	trained
-G06	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	frontal	trained
-G07	ECOG	µV	0.08	300	1000	not applied	resected	normal	L	frontal	trained
-G08	ECOG	µV	0.08	300	1000	not applied	resected	normal	L	frontal	trained
-G09	ECOG	µV	0.08	300	1000	not applied	resected	normal	L	frontal	trained
-G10	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
-H1	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	frontal	trained
-H2	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	frontal	trained
-H3	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	frontal	trained
-H4	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	frontal	trained
-H5	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	central	trained
-H6	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	central	trained
-I01	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	central	trained
-I02	ECOG	µV	0.08	300	1000	not applied	preserved	artifact	L	central	unused
-I03	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	central	trained
-I04	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	central	trained
-I05	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	central	trained
-I06	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	frontal	trained
-I07	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	central	trained
-I08	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	central	trained
-I09	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	central	trained
-I10	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	central	trained
+A01-AV	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+A02-AV	SEEG	µV	0.08	300	1000	not applied	resected	spiking	n/a	n/a	unused
+A03-AV	SEEG	µV	0.08	300	1000	not applied	resected	spiking	n/a	n/a	unused
+A04-AV	SEEG	µV	0.08	300	1000	not applied	resected	spiking	n/a	n/a	unused
+A05-AV	SEEG	µV	0.08	300	1000	not applied	resected	spiking	n/a	n/a	unused
+A06-AV	SEEG	µV	0.08	300	1000	not applied	resected	spiking	n/a	n/a	unused
+A07-AV	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+A08-AV	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+A09-AV	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+A10-AV	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+B01-AV	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
+B02-AV	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
+B03-AV	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
+B04-AV	SEEG	µV	0.08	300	1000	not applied	resected	spiking	n/a	n/a	unused
+B05-AV	SEEG	µV	0.08	300	1000	not applied	resected	spiking	n/a	n/a	unused
+B06-AV	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+B07-AV	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+B08-AV	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+B09-AV	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+B10-AV	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+C01-AV	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
+C02-AV	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
+C03-AV	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
+C04-AV	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
+C05-AV	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
+C06-AV	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+C07-AV	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+C08-AV	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+C09-AV	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+C10-AV	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+D01-AV	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
+D02-AV	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
+D03-AV	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
+D04-AV	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
+D05-AV	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+D06-AV	SEEG	µV	0.08	300	1000	not applied	preserved	artifact	n/a	n/a	unused
+D07-AV	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+D08-AV	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+D09-AV	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+D10-AV	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+E01-AV	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+E02-AV	SEEG	µV	0.08	300	1000	not applied	preserved	spiking	n/a	n/a	unused
+E03-AV	SEEG	µV	0.08	300	1000	not applied	preserved	spiking	n/a	n/a	unused
+E04-AV	SEEG	µV	0.08	300	1000	not applied	preserved	spiking	n/a	n/a	unused
+E05-AV	SEEG	µV	0.08	300	1000	not applied	preserved	spiking	n/a	n/a	unused
+E06-AV	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+E07-AV	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+E08-AV	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+E09-AV	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+E10-AV	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+F01-AV	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+F02-AV	SEEG	µV	0.08	300	1000	not applied	preserved	seizure onset zone	n/a	n/a	trained
+F03-AV	SEEG	µV	0.08	300	1000	not applied	preserved	seizure onset zone	n/a	n/a	trained
+F04-AV	SEEG	µV	0.08	300	1000	not applied	preserved	seizure onset zone	n/a	n/a	trained
+F05-AV	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+F06-AV	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+F07-AV	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+F08-AV	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+F09-AV	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+F10-AV	SEEG	µV	0.08	300	1000	not applied	preserved	normal	n/a	n/a	trained
+G01-AV	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	frontal	trained
+G02-AV	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	frontal	trained
+G03-AV	ECOG	µV	0.08	300	1000	not applied	resected	normal	L	frontal	trained
+G04-AV	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	frontal	trained
+G05-AV	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	frontal	trained
+G06-AV	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	frontal	trained
+G07-AV	ECOG	µV	0.08	300	1000	not applied	resected	normal	L	frontal	trained
+G08-AV	ECOG	µV	0.08	300	1000	not applied	resected	normal	L	frontal	trained
+G09-AV	ECOG	µV	0.08	300	1000	not applied	resected	normal	L	frontal	trained
+G10-AV	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	temporal	trained
+H1-AV	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	frontal	trained
+H2-AV	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	frontal	trained
+H3-AV	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	frontal	trained
+H4-AV	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	frontal	trained
+H5-AV	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	central	trained
+H6-AV	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	central	trained
+I01-AV	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	central	trained
+I02-AV	ECOG	µV	0.08	300	1000	not applied	preserved	artifact	L	central	unused
+I03-AV	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	central	trained
+I04-AV	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	central	trained
+I05-AV	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	central	trained
+I06-AV	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	frontal	trained
+I07-AV	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	central	trained
+I08-AV	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	central	trained
+I09-AV	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	central	trained
+I10-AV	ECOG	µV	0.08	300	1000	not applied	preserved	normal	L	central	trained

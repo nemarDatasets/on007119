@@ -1,0 +1,5 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	notch	resection	status_description	hemisphere	lobe	dataset
+N1(redacted)	ECOG	µV	0.08	300	1000	not applied	n/a	artifact	n/a	n/a	unused
+N2(redacted)	ECOG	µV	0.08	300	1000	not applied	n/a	artifact	n/a	n/a	unused
+N3(redacted)	ECOG	µV	0.08	300	1000	not applied	n/a	artifact	n/a	n/a	unused
+N4(redacted)	ECOG	µV	0.08	300	1000	not applied	n/a	artifact	n/a	n/a	unused

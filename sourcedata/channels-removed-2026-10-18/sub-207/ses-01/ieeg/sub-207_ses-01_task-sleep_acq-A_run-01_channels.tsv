@@ -1,0 +1,17 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	notch	resection	status_description	hemisphere	lobe	dataset
+E01	ECOG	µV	0.08	300	1000	not applied	preserved	artifact	L	frontal	unused
+E02	ECOG	µV	0.08	300	1000	not applied	preserved	artifact	L	frontal	unused
+E03	ECOG	µV	0.08	300	1000	not applied	preserved	artifact	L	frontal	unused
+E04	ECOG	µV	0.08	300	1000	not applied	preserved	artifact	L	frontal	unused
+E05	ECOG	µV	0.08	300	1000	not applied	preserved	artifact	L	frontal	unused
+E06	ECOG	µV	0.08	300	1000	not applied	preserved	artifact	L	frontal	unused
+E07	ECOG	µV	0.08	300	1000	not applied	preserved	artifact	L	frontal	unused
+E08	ECOG	µV	0.08	300	1000	not applied	preserved	artifact	L	frontal	unused
+E09	ECOG	µV	0.08	300	1000	not applied	preserved	artifact	L	frontal	unused
+E10	ECOG	µV	0.08	300	1000	not applied	preserved	artifact	L	frontal	unused
+E11	ECOG	µV	0.08	300	1000	not applied	preserved	artifact	L	frontal	unused
+E12	ECOG	µV	0.08	300	1000	not applied	preserved	artifact	L	frontal	unused
+E13	ECOG	µV	0.08	300	1000	not applied	preserved	artifact	L	frontal	unused
+E14	ECOG	µV	0.08	300	1000	not applied	preserved	artifact	L	frontal	unused
+E15	ECOG	µV	0.08	300	1000	not applied	preserved	artifact	L	frontal	unused
+E16	ECOG	µV	0.08	300	1000	not applied	preserved	artifact	L	central	unused

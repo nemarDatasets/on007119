@@ -1,0 +1,5 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	notch	resection	status_description	hemisphere	lobe	dataset
+E7	SEEG	µV	0.08	300	1000	not applied	n/a	normal	n/a	n/a	trained
+E8	SEEG	µV	0.08	300	1000	not applied	n/a	normal	n/a	n/a	trained
+E9	SEEG	µV	0.08	300	1000	not applied	n/a	normal	n/a	n/a	trained
+E10	SEEG	µV	0.08	300	1000	not applied	preserved	normal	R	temporal	trained
